@@ -1,0 +1,40 @@
+body
+{
+    background: black;
+}
+
+h1
+{
+    background: skyblue;
+    color: black;
+    height: 100px;
+    text-align: center;
+    padding-top: 50px;
+}
+
+h3
+{
+    background: pink;
+    color: blueviolet;
+    height: 100px;
+    text-align: center;
+    padding-top: 50px;
+    font-size: xx-large;
+}
+
+div
+{
+    background: plum;
+    color: chocolate;
+    height: 50px;
+    width: 400px;
+    margin: auto;
+}
+
+p
+{
+    text-align: center;
+    padding-top: 10px;
+    font-size: x-large;
+    font-weight: bolder;
+}
